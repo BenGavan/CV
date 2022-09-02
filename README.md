@@ -83,4 +83,4 @@ materials research, manufacturing techniques, and CAD design.
 
 #### Software, on-going
 
-For some examples of projects I have worked on: [github.com/BenGavan].
+For some examples of projects I have worked on: [github.com/BenGavan](https://github.com/BenGavan/).
