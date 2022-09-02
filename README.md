@@ -6,8 +6,6 @@ This README is the GitHub version of my CV.
 
 ## Education
 
----
-
 | Date      | Details                                                                                         |
 |-----------|-------------------------------------------------------------------------------------------------|
 | 2018-2022 | MPhys (Hons) Physics with Theoretical Physics<br/>University of Manchester, UK                  |
@@ -15,8 +13,6 @@ This README is the GitHub version of my CV.
 | 2011-2016 | St Cecilia’s RC High School <br/>9 GCSEs (4 A*’s, 2 A’s, 3 B’s) <br/>1 BTEC Engineering (Merit) |
 
 ## Skills
-
----
 
 | Skill                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +33,6 @@ This README is the GitHub version of my CV.
 
 ## Research and Projects
 
----
 #### 2021-2022:	MPhys Project
 “Modeling quasiparticle interference in two-dimensional materials”
 By considering impurity-based scattering, theoretical numerical calculations, based on T-matrix formalism, were completed to successfully replicate scanning tunnelling microscopy (STM) data for NbSe2 in the charge density wave (CDW) phase.  A paper is currently being prepared based on the results and insights achieved by our novel way of probing CDWs in TMDs.  Python and Fortran were both used.
@@ -50,10 +45,7 @@ Using Python to interface with ROOT to analyse the 13 TeV ATLAS open data set, I
 “Random Sampling and Monte-Carlo Simulation of Neutrons within a Nuclear Fission Reactor.”
 The project involved using Monte-Carlo simulations to calculate the critical mass for nuclear fission reactions to be sustained via chain reaction for a variety of fuels, moderators, and geometries.  Python and Go were used to write the simulations from scratch.
 
-
 ## Additional Projects and Experience
-
----
 
 #### Oomph-lib, Summer 2021
 
