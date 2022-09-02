@@ -62,7 +62,7 @@ at the design stage. Even though we could not complete the project, I gained exp
 short courses in CAD, electronics, microcontrollers, embedded programming, sensing, radio communication, aerodynamics,
 and how to work and manage a group project spanning a wide range of skill sets.
 
-Co-ran a robotics club at my previous secondary school, 2017
+#### Co-ran a robotics club at my previous secondary school, 2017
 My GCSE physics teacher invited me back to co-run a robotics club aimed at introducing younger pupils to STEM through on
 hands experience.
 
