@@ -88,7 +88,7 @@ For some examples of projects I have worked on: [github.com/BenGavan](https://gi
 ## Details of Projects & Examples 
 
 #### [Language Overviews]()
-A collection of code snippets in e few languages.
+A collection of code snippets in a few languages.
 
 ### C++
 #### [Basic HTTP client](https://github.com/BenGavan/cpp-networking/tree/main/http-client)
@@ -96,17 +96,23 @@ A basic minimal HTTP client written in pure C++ (no external libraries) on top o
 <br/>(uses sys/socket.h, sys/types.h, and netinet/in.h)
 
 #### [Adaptive meshing using GMSH](https://github.com/BenGavan/gmsh-experimenting)
-Adaptive mesh refinement using GMSH using C++.  Also includes target mesh size field estimation. 
+Adaptive mesh refinement interfacing with GMSH using C++.  Also includes target mesh size field estimation. 
 
 [//]: # (Astro data querying/search)
 [//]: # (png generator)
 [//]: # (Plotting library)
 
 ### [Go](https://github.com/BenGavan/Go)
-
 #### [Twitter clone/copy](https://github.com/BenGavan/TwitterClone-services)
 The backend service of a simplified copy/clone of Twitter. 
 <br/>Uses: Go, Docker, PostgreSQL, Neo4j.
+
+#### [BG Physics](https://github.com/BenGavan/BG-Physics)
+A dynamically generated website for presenting some of my physics and maths notes.
+Uses a Golang HTTP webserver as a Docker container running on AWS EC2 with routing using route 53.
+
+#### [Personal Website](https://github.com/BenGavan/PersonalWebsite)
+A static website about me.  Uses HTML, CSS, & JS for the font end, and Go & Docker for the backend hosted on AWS.
 
 #### [Theory Computing Project](https://github.com/BenGavan/TheoryProject)
 “Random Sampling and Monte-Carlo Simulation of Neutrons within a Nuclear Fission Reactor.”
@@ -114,6 +120,9 @@ This involved using Monte-Carlo simulations to calculate the critical mass for n
 
 
 ### Python
+#### [Thickness of Boron Nitrate](https://github.com/BenGavan/Thickness-of-Boron-Nitrate)
+Calculates the thickness of a boron nitrate sample by using a minimising chi squared fit of the expected transmission
+coefficients for different electron energies.
 
 ### iOS
 #### [Twitter Clone/copy](https://github.com/BenGavan/TwitterClone-iOS)
@@ -124,7 +133,6 @@ Collection of small iOS projects using Swift.  These projects originate from lea
 
 
 ### Algorithms
-
 #### [6.006 - Introduction to Algorithms (MIT)](https://github.com/BenGavan/6.006-Intro-to-Algs)
 My collection of notes and solutions relating to 6.006: Introduction to Algorithms (MIT OpenCourseWare)
 
@@ -132,7 +140,6 @@ My collection of notes and solutions relating to 6.006: Introduction to Algorith
 A collection of Algorithms and Data Structures implemented in several programming languages (C/C++, Python 3, Java, Fortran 90, Swift, JS).
 
 ### Databases
-
 #### [PostgreSQL Examples](https://github.com/BenGavan/postgreSQL-examples)
 Examples/snippets for interfacing a postgreSQL database in Go.
 
