@@ -1,16 +1,16 @@
 # CV - Ben Gavan
 
-This README is the GitHub version of my CV.
+This README is the GitHub version of my CV with additional links and explanations of projects & examples.
 
 [//]: # (TODO: add links to specific projects mentioned)
 
 ## Education
 
-| Date      | Details                                                                                         |
-|-----------|-------------------------------------------------------------------------------------------------|
-| 2018-2022 | MPhys (Hons) Physics with Theoretical Physics<br/>University of Manchester, UK                  |
-| 2016-2018 | Cardinal Newman College <br/>A levels in Physics (A*), Maths (A*), and Further Maths (A*)       |
-| 2011-2016 | St Cecilia’s RC High School <br/>9 GCSEs (4 A*’s, 2 A’s, 3 B’s) <br/>1 BTEC Engineering (Merit) |
+| Date      | Details                                                                                                    |
+|-----------|------------------------------------------------------------------------------------------------------------|
+| 2018-2022 | MPhys (Hons) Physics with Theoretical Physics<br/>University of Manchester, UK                             |
+| 2016-2018 | Cardinal Newman College, Preston <br/>A levels in Physics (A*), Maths (A*), and Further Maths (A*)         |
+| 2011-2016 | St Cecilia’s RC High School, Longridge <br/>9 GCSEs (4 A*’s, 2 A’s, 3 B’s) <br/>1 BTEC Engineering (Merit) |
 
 ## Skills
 
@@ -27,13 +27,13 @@ This README is the GitHub version of my CV.
 | Quantum Computing       | Qiskit and my own quantum circuit output calculator in C++ from scratch. Also completed “COMP39112 - Quantum computing”.                                                                                                                                                                                                                                                                                                       |
 | Data Analysis           | Data Science Bootcamp (Udemy) and data analysis throughout university labs.                                                                                                                                                                                                                                                                                                                                                    |
 | Finite Element Analysis | Using Oomph-lib for fluid and solid mechanics calculations.                                                                                                                                                                                                                                                                                                                                                                    |
-| Algorithms              | Implemented common algorithms and data structures in a variety of languages. Also completed 6.006: Introduction to Algorithms (MIT OpenCourseWare).                                                                                                                                                                                                                                                                            |
+| Algorithms              | Implemented common algorithms and data structures in a [variety of languages.](https://github.com/BenGavan/Algorithms-and-DataStructures) Also completed [6.006: Introduction to Algorithms](https://github.com/BenGavan/6.006-Intro-to-Algs) (MIT OpenCourseWare).                                                                                                                                                            |
 | Mathematics             | Differential, integral, tensor and vector calculus, abstract algebra, probability theory, and complex analysis.                                                                                                                                                                                                                                                                                                                |
 | Physics                 | Classical mechanics, electrodynamics, quantum mechanics, quantum field theory, gauge theories, general relativity, particle and nuclear physics, statistical physics, fluid & solid mechanics, and quantum computing. <br/> Lab work experience includes working with radiative samples, liquid nitrogen, digital and analogue electronics, oscilloscopes, data analysis using python, presenting results, and report writing. |  
 
 ## Research and Projects
 
-#### 2021-2022:	MPhys Project
+#### 2021-2022:	[MPhys Project](https://github.com/BenGavan/MPhys-QPI-public)
 “Modeling quasiparticle interference in two-dimensional materials”
 By considering impurity-based scattering, theoretical numerical calculations, based on T-matrix formalism, were completed to successfully replicate scanning tunnelling microscopy (STM) data for NbSe2 in the charge density wave (CDW) phase.  A paper is currently being prepared based on the results and insights achieved by our novel way of probing CDWs in TMDs.  Python and Fortran were both used.
 
@@ -41,7 +41,7 @@ By considering impurity-based scattering, theoretical numerical calculations, ba
 “ATLAS”
 Using Python to interface with ROOT to analyse the 13 TeV ATLAS open data set, I reproduced the cross-sections for various processes including Z, W, and Higgs boson decays.
 
-#### 2020: Theory Computing Project
+#### 2020: [Theory Computing Project](https://github.com/BenGavan/TheoryProject)
 “Random Sampling and Monte-Carlo Simulation of Neutrons within a Nuclear Fission Reactor.”
 The project involved using Monte-Carlo simulations to calculate the critical mass for nuclear fission reactions to be sustained via chain reaction for a variety of fuels, moderators, and geometries.  Python and Go were used to write the simulations from scratch.
 
@@ -55,7 +55,7 @@ object-oriented, open-source multi-physics finite-element library).
 #### 2nd place in the UK CANSAT competition at the design stage, 2019-2020
 
 I participated in a team of six in the UK CANSAT competition where we had to design and build a “satellite” that could
-be dropped from a variety of hights, detect detachment, deploy parachutes, and perform additional tasks, all whilst
+be dropped from a variety of heights, detect detachment, deploy parachutes, and perform additional tasks, all whilst
 relaying data to a ground station designed and built by the team. Unfortunately, due to the COVID-19 pandemic, the
 competition was cancelled in March 2020 along with any further hands-on work. At that time, we had placed 2nd in the UK
 at the design stage. Even though we could not complete the project, I gained experience through hands-on work and/or
@@ -84,3 +84,57 @@ materials research, manufacturing techniques, and CAD design.
 #### Software, on-going
 
 For some examples of projects I have worked on: [github.com/BenGavan](https://github.com/BenGavan/).
+
+## Details of Projects & Examples 
+
+#### [Language Overviews]()
+A collection of code snippets in e few languages.
+
+### C++
+#### [Basic HTTP client](https://github.com/BenGavan/cpp-networking/tree/main/http-client)
+A basic minimal HTTP client written in pure C++ (no external libraries) on top of TCP sockets.
+<br/>(uses sys/socket.h, sys/types.h, and netinet/in.h)
+
+#### [Adaptive meshing using GMSH](https://github.com/BenGavan/gmsh-experimenting)
+Adaptive mesh refinement using GMSH using C++.  Also includes target mesh size field estimation. 
+
+[//]: # (Astro data querying/search)
+[//]: # (png generator)
+[//]: # (Plotting library)
+
+### [Go](https://github.com/BenGavan/Go)
+
+#### [Twitter clone/copy](https://github.com/BenGavan/TwitterClone-services)
+The backend service of a simplified copy/clone of Twitter. 
+<br/>Uses: Go, Docker, PostgreSQL, Neo4j.
+
+#### [Theory Computing Project](https://github.com/BenGavan/TheoryProject)
+“Random Sampling and Monte-Carlo Simulation of Neutrons within a Nuclear Fission Reactor.”
+This involved using Monte-Carlo simulations to calculate the critical mass for nuclear fission reactions to be sustained via chain reaction for a variety of fuels, moderators, and geometries. Python and Go were used to write the simulations from scratch.
+
+
+### Python
+
+### iOS
+#### [Twitter Clone/copy](https://github.com/BenGavan/TwitterClone-iOS)
+iOS app of a simplified copy/clone of Twitter.
+
+#### [Collection of iOS projects using Swift](https://github.com/BenGavan/ios)
+Collection of small iOS projects using Swift.  These projects originate from learning iOS development.
+
+
+### Algorithms
+
+#### [6.006 - Introduction to Algorithms (MIT)](https://github.com/BenGavan/6.006-Intro-to-Algs)
+My collection of notes and solutions relating to 6.006: Introduction to Algorithms (MIT OpenCourseWare)
+
+#### [Algorithms and Data Structures](https://github.com/BenGavan/Algorithms-and-DataStructures)
+A collection of Algorithms and Data Structures implemented in several programming languages (C/C++, Python 3, Java, Fortran 90, Swift, JS).
+
+### Databases
+
+#### [PostgreSQL Examples](https://github.com/BenGavan/postgreSQL-examples)
+Examples/snippets for interfacing a postgreSQL database in Go.
+
+#### [Neo4j Examples](https://github.com/BenGavan/neo4j-examples)
+Examples/snippets for interfacing a Neo4j database in Go.
