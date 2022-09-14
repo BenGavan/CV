@@ -18,13 +18,13 @@ This README is the GitHub version of my CV with additional links and explanation
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Python                  | Data analysis, numerical calculations and Monte Carlo simulations.                                                                                                                                                                                                                                                                                                                                                             |
 | Go                      | Server-side backend (for mobile and web) using microservice architecture (using Docker and Kubernetes hosted on AWS). Also used for Monte Carlo simulations.                                                                                                                                                                                                                                                                   |
-| C++                     | Contributing to oomph-lib (an object-oriented, open-source multi-physics finite-element library). Also completed “PHYS30762: Object-Oriented Programming in C++”.                                                                                                                                                                                                                                                              |
+| C++                     | Contributing to oomph-lib (an object-oriented, open-source multi-physics finite-element library). Also completed [“PHYS30762: Object-Oriented Programming in C++”](https://github.com/BenGavan/PHYS30762-Cpp).                                                                                                                                                                                                                 |
 | Fortran                 | Numerical calculations - MPhys project.                                                                                                                                                                                                                                                                                                                                                                                        |
 | Java                    | Android development, libGDX, and desktop applications.                                                                                                                                                                                                                                                                                                                                                                         |
 | Swift                   | iOS development.                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Web development         | HTML, CSS, and JavaScript to build lightweight websites without depending heavily on external libraries.                                                                                                                                                                                                                                                                                                                       |
 | Databases               | Using PostgreSQL and Neo4j in real-world applications.                                                                                                                                                                                                                                                                                                                                                                         |
-| Quantum Computing       | Qiskit and my own quantum circuit output calculator in C++ from scratch. Also completed “COMP39112 - Quantum computing”.                                                                                                                                                                                                                                                                                                       |
+| Quantum Computing       | [Qiskit](https://github.com/BenGavan/qiskit-exp) and my own [quantum circuit output calculator in C++]() from scratch. Also completed “COMP39112 - Quantum computing”.                                                                                                                                                                                                                                                         |
 | Data Analysis           | Data Science Bootcamp (Udemy) and data analysis throughout university labs.                                                                                                                                                                                                                                                                                                                                                    |
 | Finite Element Analysis | Using Oomph-lib for fluid and solid mechanics calculations.                                                                                                                                                                                                                                                                                                                                                                    |
 | Algorithms              | Implemented common algorithms and data structures in a [variety of languages.](https://github.com/BenGavan/Algorithms-and-DataStructures) Also completed [6.006: Introduction to Algorithms](https://github.com/BenGavan/6.006-Intro-to-Algs) (MIT OpenCourseWare).                                                                                                                                                            |
@@ -95,6 +95,13 @@ A collection of code snippets in a few languages.
 A basic minimal HTTP client written in pure C++ (no external libraries) on top of TCP sockets.
 <br/>(uses sys/socket.h, sys/types.h, and netinet/in.h)
 
+#### [PHYS30762: Object-Oriented Programming in C++](https://github.com/BenGavan/PHYS30762-Cpp)
+My collection of notes, examples, and solutions to the course "PHYS30762: Object-Oriented Programming in C++" at UoM. 
+(Note: examples might not be original).
+
+#### [Quantum Circuit Calculator](https://github.com/BenGavan/QuantumCircuitCalc)
+Calculates the output state of a quantum circuit given n-qubits, m-quantum gates, and the initial state.  Written in pure C++.  
+
 #### [Adaptive meshing using GMSH](https://github.com/BenGavan/gmsh-experimenting)
 Adaptive mesh refinement interfacing with GMSH using C++.  Also includes target mesh size field estimation. 
 
@@ -124,6 +131,9 @@ This involved using Monte-Carlo simulations to calculate the critical mass for n
 Calculates the thickness of a boron nitrate sample by using a minimising chi squared fit of the expected transmission
 coefficients for different electron energies.
 
+#### [Qiskit Examples](https://github.com/BenGavan/qiskit-exp)
+Examples using the Qiskit SDK.
+
 ### iOS
 #### [Twitter Clone/copy](https://github.com/BenGavan/TwitterClone-iOS)
 iOS app of a simplified copy/clone of Twitter.
@@ -145,3 +155,10 @@ Examples/snippets for interfacing a postgreSQL database in Go.
 
 #### [Neo4j Examples](https://github.com/BenGavan/neo4j-examples)
 Examples/snippets for interfacing a Neo4j database in Go.
+
+
+### Quantum Computing 
+#### [Qiskit Examples](https://github.com/BenGavan/qiskit-exp)
+Some notes and exmaples using Qiskit (Quantum Information Software Kit for Quantum Computation)
+
+#### [A basic calculator for quantum circuit output calculations in C++]()
