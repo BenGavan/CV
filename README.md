@@ -12,6 +12,13 @@ This README is the GitHub version of my CV with additional links and explanation
 | 2016-2018 | Cardinal Newman College, Preston <br/>A levels in Physics (A*), Maths (A*), and Further Maths (A*)         |
 | 2011-2016 | St Cecilia’s RC High School, Longridge <br/>9 GCSEs (4 A*’s, 2 A’s, 3 B’s) <br/>1 BTEC Engineering (Merit) |
 
+
+## Employment
+| Date       | Details                                                                                                    |
+|------------|------------------------------------------------------------------------------------------------------------|
+|2022-present| Research Engineer (Imetrum Ltd, Bristol, UK) <br/>Focus on developing, calibrating, and verifying non-contact measurement systems leveraging digital image correlation and computer vision techniques <br/>Main languages used: Python, C\#, and C++.|                                                 
+
+
 ## Skills
 
 | Skill                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -57,8 +64,8 @@ object-oriented, open-source multi-physics finite-element library).
 I participated in a team of six in the UK CANSAT competition where we had to design and build a “satellite” that could
 be dropped from a variety of heights, detect detachment, deploy parachutes, and perform additional tasks, all whilst
 relaying data to a ground station designed and built by the team. Unfortunately, due to the COVID-19 pandemic, the
-competition was cancelled in March 2020 along with any further hands-on work. At that time, we had placed 2nd in the UK
-at the design stage. Even though we could not complete the project, I gained experience through hands-on work and/or
+competition and any further hands-on work were cancelled in March 2020. At that time, we had placed 2nd in the UK
+at the design stage. Even though we could not complete the project, I gained experience through hands-on work and
 short courses in CAD, electronics, microcontrollers, embedded programming, sensing, radio communication, aerodynamics,
 and how to work and manage a group project spanning a wide range of skill sets.
 
@@ -72,7 +79,7 @@ Awarded for the highest GCSE grades for my year leaving school.
 
 #### Completed an additional GCSE out of school hours, 2014-2016
 
-Due to my interest and aptitude for geography, I was able to complete an additional GCSE in geography. This involved
+Due to my interest and aptitude for geography, I completed an additional GCSE in geography. This involved
 completing fieldwork analysing how river features vary along a watercourse. Overall, I received an A*.
 
 #### BAE work experience week, 2015
@@ -116,10 +123,10 @@ The backend service of a simplified copy/clone of Twitter.
 
 #### [BG Physics](https://github.com/BenGavan/BG-Physics)
 A dynamically generated website for presenting some of my physics and maths notes.
-Uses a Golang HTTP webserver as a Docker container running on AWS EC2 with routing using route 53.
+Uses a Golang HTTP web server as a Docker container running on AWS EC2 with routing using route 53.
 
 #### [Personal Website](https://github.com/BenGavan/PersonalWebsite)
-A static website about me.  Uses HTML, CSS, & JS for the font end, and Go & Docker for the backend hosted on AWS.
+A static website about me.  Uses HTML, CSS, & JS for the front end, and Go & Docker for the backend hosted on AWS.
 
 #### [Theory Computing Project](https://github.com/BenGavan/TheoryProject)
 “Random Sampling and Monte-Carlo Simulation of Neutrons within a Nuclear Fission Reactor.”
@@ -128,7 +135,7 @@ This involved using Monte-Carlo simulations to calculate the critical mass for n
 
 ### Python
 #### [Thickness of Boron Nitrate](https://github.com/BenGavan/Thickness-of-Boron-Nitrate)
-Calculates the thickness of a boron nitrate sample by using a minimising chi squared fit of the expected transmission
+Calculates the thickness of a boron nitrate sample by using a minimising chi-squared fit of the expected transmission
 coefficients for different electron energies.
 
 #### [Qiskit Examples](https://github.com/BenGavan/qiskit-exp)
@@ -159,6 +166,6 @@ Examples/snippets for interfacing a Neo4j database in Go.
 
 ### Quantum Computing 
 #### [Qiskit Examples](https://github.com/BenGavan/qiskit-exp)
-Some notes and exmaples using Qiskit (Quantum Information Software Kit for Quantum Computation)
+Some notes and examples using Qiskit (Quantum Information Software Kit for Quantum Computation)
 
-#### [A basic calculator for quantum circuit output calculations in C++]()
+#### [A basic calculator for quantum circuit output calculations in C++](https://github.com/BenGavan/QuantumCircuitCalc)
